@@ -4,7 +4,7 @@ I play bass as a hobby, these are some hand made bass tabs.
 
 All tabs are written with [MuseScore](https://musescore.org/), you can use it to open/edit/print the tabs.
 
-All tabs are free to use, 🤘. If you like this project or find these tabs useful, a star will be appreciated.
+All tabs are free to use, 🤘. If you like this project or find these tabs useful, a star will be appreciated ⭐.
 
 Click "Code -> Download ZIP" to download all the tabs.
 
