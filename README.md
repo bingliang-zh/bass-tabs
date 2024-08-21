@@ -22,3 +22,4 @@ Click [here](https://github.com/bingliang-zh/bass-tabs/archive/refs/heads/master
 | 孔雀                | 蛙池             | [mscz](./tabs/孔雀%20-%20蛙池.mscz), [pdf](./pdfs/孔雀%20-%20蛙池.pdf)                                  |
 | 爱人错过            | 告五人           | [mscz](./tabs/爱人错过%20-%20告五人.mscz), [pdf](./pdfs/爱人错过%20-%20告五人.pdf)                      |
 | 起风了              | 买辣椒也用券     | [mscz](./tabs/起风了%20-%20买辣椒也用券.mscz), [pdf](./pdfs/起风了%20-%20买辣椒也用券.pdf)              |
+| 在雨中              | 汪峰     | [mscz](./tabs/在雨中%20-%20汪峰.mscz), [pdf](./pdfs/在雨中%20-%20汪峰.pdf)              |
